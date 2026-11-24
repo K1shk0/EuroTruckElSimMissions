@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="TruckHandling" format=3 uid="uid://dkjo0t2gbqs42"]
+
+[ext_resource type="Script" uid="uid://d1138k2cyya4a" path="res://Scripts/TruckHandling.cs" id="1_script"]
+[ext_resource type="Texture2D" uid="uid://buva727vbtsue" path="res://Images/Lastbil.jpg" id="1_wdjmh"]
+
+[resource]
+script = ExtResource("1_script")
+Name = "Standard"
+Speed = 300.0
+Image = ExtResource("1_wdjmh")

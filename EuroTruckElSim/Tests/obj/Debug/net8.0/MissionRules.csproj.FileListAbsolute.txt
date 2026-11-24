@@ -1,0 +1,15 @@
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\bin\Debug\net8.0\MissionRules.exe
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\bin\Debug\net8.0\MissionRules.deps.json
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\bin\Debug\net8.0\MissionRules.runtimeconfig.json
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\bin\Debug\net8.0\MissionRules.dll
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\bin\Debug\net8.0\MissionRules.pdb
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\obj\Debug\net8.0\MissionRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\obj\Debug\net8.0\MissionRules.AssemblyInfoInputs.cache
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\obj\Debug\net8.0\MissionRules.AssemblyInfo.cs
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\obj\Debug\net8.0\MissionRules.csproj.CoreCompileInputs.cache
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\obj\Debug\net8.0\MissionRules.sourcelink.json
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\obj\Debug\net8.0\MissionRules.dll
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\obj\Debug\net8.0\refint\MissionRules.dll
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\obj\Debug\net8.0\MissionRules.pdb
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\obj\Debug\net8.0\MissionRules.genruntimeconfig.cache
+C:\Users\youse\Documents\ChatGPT\Coding\EuroTruckElSim\Tests\obj\Debug\net8.0\ref\MissionRules.dll
